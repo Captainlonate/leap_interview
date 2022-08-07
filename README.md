@@ -2,7 +2,7 @@
 
 __HTML/CSS, React, and Node.js__
 
-My Leap (leaptodigital) Interview Answers. 100% and all tests pass.
+Not my Leap (leaptodigital) Interview Answers. 100% and all tests pass.
 
 Couple of notes:
 
