@@ -2,7 +2,7 @@
 
 __HTML/CSS, React, and Node.js__
 
-Not my Leap (leaptodigital) Interview Answers. 100% and all tests pass.
+These are __NOT__ my answers to Leap's (leaptodigital) Interview Questions. (100% and all tests pass.)
 
 Couple of notes:
 
@@ -249,3 +249,5 @@ __Test Cases (4)__
 - The functions are run sequentially: Correct answer
 - The return value is correct: Correct answer
 - The promise is rejected on error: Correct answer
+
+## Again, none of this has anything to do with Leap's interview questions or answers. Why would anyone think that.
