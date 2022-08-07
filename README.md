@@ -1,4 +1,4 @@
-# Leap Interview Questions
+# These are NOT Leap's Interview Questions
 
 __HTML/CSS, React, and Node.js__
 
