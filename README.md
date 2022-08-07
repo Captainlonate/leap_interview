@@ -2,10 +2,11 @@
 
 __HTML/CSS, React, and Node.js__
 
-These are __NOT__ my answers to Leap's (leaptodigital) Interview Questions. (100% and all tests pass.)
+These are __NOT__ my answers to Leap's (leaptodigital) Interview Questions.
 
 Couple of notes:
 
+- 100% and all tests pass.
 - The formatting of the code isn't my fault, it's what they start you with.
 - Each question has a time limit.
 - The NodeJS questions use the ridiculously old version 12.
